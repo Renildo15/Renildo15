@@ -1,7 +1,7 @@
 ### Olá! Me chamo Renildo Rabi!
 ##
-- 🌱 Estudando React js, JavaScript e Banco de Dados
-- 😄 Pronouns: ele/dele
+
+Caí de paraquedas nesse mundo, mas acabei gostando e estou estudando par me tornar um desenvolvedor front-end.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">

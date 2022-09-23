@@ -22,6 +22,7 @@ Caí de paraquedas nesse mundo, mas acabei gostando e estou estudando par me tor
   <h3>Frameworks</h3>
   <img align="center" alt="Habby-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Habby-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+  <img align="center" alt="Habby-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <br>
   <br>
   <h3>Database</h3>
